@@ -1,0 +1,5 @@
+pushover.creds
+.env
+.htpasswd
+acme/
+backup/*.db.*
